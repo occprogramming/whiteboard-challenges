@@ -1,0 +1,27 @@
+Problem 1: Number Letter Count
+
+If the numbers 1 to 5 are written out in words: one, two, three, four, five, then there are 3 + 3 + 5 + 4 + 4 = 19 letters used in total.
+If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, how many letters would be used? 
+
+
+
+Problem 2: Crack the Hash
+
+The hash is either a 0 to 6 digit number or a three letter lower case string.
+Hash output will be the exact same on each computer.  Different hash for each input.  
+
+Example: 
+			int k = 123456;
+			hash<int> h;
+			const size_t value = h(k);
+			output = 859409398
+			
+
+Now crack the hash: 108289031
+
+
+The Code you will need to use:
+
+#include <string>
+hash<string> h;
+const size_t value = h(i);

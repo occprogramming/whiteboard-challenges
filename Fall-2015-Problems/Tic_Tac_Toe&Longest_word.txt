@@ -1,0 +1,10 @@
+Tic-Tac Win: Moderate
+Design an algorithm to figure out if someone has won a game of tic-tac toe
+
+Longest Word: Hard
+Given a list of words, write a program to find the longest word made of other words in the list.
+
+Example:
+Input: cat, banana, dog, nana, walk, walker, dogwalker
+
+Ouput: dogwalker

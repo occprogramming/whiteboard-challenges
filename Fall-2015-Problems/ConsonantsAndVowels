@@ -1,0 +1,21 @@
+Consonants and Vowels
+
+Given:
+Any string of the letters c and v, uppercase or lowercase.
+
+Output:
+A random string of letters in which consonants occupy the given 'c' indices and vowels occupy the given 'v' indices.
+
+Note: 
+When the user inputs a capital C or V, capitalize the letter in that index of the output.
+What happens when the user enters a letter that isn't c or v?
+
+Samples:
+Input: cvcvcc
+Output: litunn
+
+Input: CcvV
+Output: ytie
+
+Input cvcvcvcvcvcvcvcvcvcv
+Output: poxuyusovevivikutire
